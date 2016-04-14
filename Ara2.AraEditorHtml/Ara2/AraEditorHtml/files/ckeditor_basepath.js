@@ -1,0 +1,1 @@
+﻿var CKEDITOR_BASEPATH = 'Ara2/Components/AraEditorHtml/files/';
