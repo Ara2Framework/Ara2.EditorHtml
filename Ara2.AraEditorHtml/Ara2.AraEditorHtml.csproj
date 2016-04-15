@@ -44,7 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AraComponetsServer\Components\AraEditorHtml.cs" />
+    <Compile Include="Ara2ComponentsServer\Components\AraEditorHtml.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
