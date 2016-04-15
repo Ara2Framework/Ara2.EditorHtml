@@ -52,10 +52,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Ara2\AraEditorHtml\files\" />
+    <Folder Include="Ara2\Components\AraEditorHtml\files\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Ara2\AraEditorHtml\AraEditorHtml.js" />
+    <Content Include="Ara2\Components\AraEditorHtml\AraEditorHtml.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
