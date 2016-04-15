@@ -172,7 +172,8 @@ namespace Ara2.Components
             tomorrow,
             vs,
             xcode,
-            zenburn        }
+            zenburn
+        }
 
         private ECodeSnippetTheme _CodeSnippetTheme = ECodeSnippetTheme.none;
         [AraDevProperty(ECodeSnippetTheme.none)]
